@@ -113,7 +113,7 @@ seo:
       value: My Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: My theme's description
       keyName: property
     - name: 'og:image'
       value: /images/12_thumb.jpg
